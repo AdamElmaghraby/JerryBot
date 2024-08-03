@@ -1,7 +1,3 @@
-Here’s an updated professional GitHub description for JerryBot, incorporating details about the code and configuration:
-
----
-
 # JerryBot
 
 JerryBot is a sophisticated Discord bot that utilizes OpenAI's GPT-3.5-turbo through the `go-openai` library, designed to enhance interactions within Discord servers. With its advanced conversational abilities and flexible message routing, JerryBot offers an engaging and customizable chat experience.
