@@ -65,10 +65,6 @@ Initializes and runs the bot, setting up command routes and handling bot lifecyc
    go run main.go
    ```
 
-## Contributing
-
-Contributions are welcome! Please refer to the [contributing guidelines](CONTRIBUTING.md) for more information.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
