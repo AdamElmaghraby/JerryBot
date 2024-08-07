@@ -48,7 +48,7 @@ Initializes and runs the bot, setting up command routes and handling bot lifecyc
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/JerryBot.git
+   git clone https://github.com/AdamElmaghraby/JerryBot.git
    ```
 
 2. **Install Dependencies**:
